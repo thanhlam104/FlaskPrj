@@ -1,4 +1,10 @@
 body {
-    margin: 300;
+
+    text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
